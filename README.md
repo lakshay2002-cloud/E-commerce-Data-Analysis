@@ -1,0 +1,2 @@
+# E-commerce-Data-Analysis
+E-commerce Data Analysis project using Python and SQL focused on analyzing sales, customer behavior, and product performance. Extracted, cleaned, and processed large datasets to identify trends and insights, generating reports that helped optimize inventory, boost sales, and improve customer targeting. Leveraged SQL for efficient data querying and Python libraries like Pandas and Matplotlib for data manipulation and visualization, providing actionable insights for business decision-making
